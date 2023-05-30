@@ -37,7 +37,7 @@ conn.sendMessage(m.chat, {sticker: mediax, mentions: users}, { quoted: m })
 } else {
 conn.sendMessage(m.chat, { image: mediax, mentions: users, caption: htextos, mentions: users }, { quoted: m }) 
 }}}
-handler.command = /^(hidetag|notificar|notify)$/i
+handler.command = /^(hidetag|notificar|مخفي)$/i
 handler.group = true
 handler.admin = true
 export default handler
