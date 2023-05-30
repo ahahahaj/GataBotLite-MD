@@ -102,9 +102,9 @@ global.author = 'حقوق بوت عمك لايت 971553527240'
 
 global.official = [ // Agregate si eres Owner
 ['971553527240', 'لايت 💻', 1], 
-['971553527240', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['971553527240', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🍓', 1],
-['971553527240', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['971553527240', 'المطور 💻', 1],  
+['971553527240', 'المطور 🍓', 1],
+['971553527240', 'المطور 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -115,33 +115,33 @@ global.vs = '1.0.2'
 global.vsJB = '3.0'
 
 global.gt = 'زيرو تو'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.yt = 'https://youtube.com/@ZEROTWOBOT'
+global.yt2 = 'https://youtube.com/@ZEROTWOBOT'
+global.ig = 'https://www.instagram.com/m2ln11'
+global.md = 'https://github.com/lite2023'
+global.fb = 'https://youtube.com/@ZEROTWOBOT'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/Gv6wY102k9v4I2MrXPicOT' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Help
+global.nn = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/IhYY2vOmbSJJZpKimQ9ydO' //Grupo 9 COL
+global.paypal = 'https://paypal.me/قريب'
+global.asistencia = 'Wa.me/971553527240' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'مطور زيرو تو : لايت'
+global.igfg = 'زيرو تو'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
@@ -169,36 +169,36 @@ global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://i.imgur.com/AwlL9kc.jpeg'
-global.img2 = 'https://i.imgur.com/p18q1Ok.jpeg'
+global.img = 'https://telegra.ph/زيرو-تو-05-30'
+global.img2 = 'https://telegra.ph/زيرو-تو-05-30'
 
 global.img3 = 'https://i.imgur.com/01Z8a0a.jpg' //ft rectangular
 
 //global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' //prem   //no
 //global.img4 = 'https://i.imgur.com/i0pccuo.jpg' //prem   //no
 
-global.img5 = 'https://i.imgur.com/80uz37R.jpeg'
-global.img6 = 'https://i.imgur.com/3zSvnGY.jpeg'
-global.img7 = 'https://i.imgur.com/WY4r6up.jpeg'
-global.img8 = 'https://i.imgur.com/qCO3RYa.jpeg'
-global.img9 = 'https://i.imgur.com/dWk51FS.jpeg'
+global.img5 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img6 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img7 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img8 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img9 = 'https://telegra.ph/زيرو-تو-05-30'
 
-global.img10 = 'https://i.imgur.com/T4NjKMi.jpeg'
-global.img11 = 'https://i.imgur.com/jqyWSlh.jpeg'
-global.img12 = 'https://i.imgur.com/mpCRttm.jpeg'
-global.img13 = 'https://i.imgur.com/O04epJI.jpeg'
-global.img14 = 'https://i.imgur.com/jfbuJRU.jpeg'
-global.img15 = 'https://i.imgur.com/DzqUXkW.jpeg'
+global.img10 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img11 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img12 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img13 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img14 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img15 = 'https://telegra.ph/زيرو-تو-05-30'
 
 //global.img16 = 'https://i.imgur.com/11MRjo4.jpeg' //+18   //no
 
-global.img17 = 'https://i.imgur.com/Y3ZWq7z.jpeg'
-global.img18 = 'https://i.imgur.com/kaUN1Nz.jpeg'
-global.img19 = 'https://i.imgur.com/7yJ22hJ.jpeg'
-global.img20 = 'https://i.imgur.com/qcD353P.jpeg'
-global.img21 = 'https://i.imgur.com/3fJTaX6.jpeg'
+global.img17 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img18 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img19 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img20 = 'https://telegra.ph/زيرو-تو-05-30'
+global.img21 = 'https://telegra.ph/زيرو-تو-05-30'
 
-global.img21 = 'https://i.imgur.com/akofqcE.jpeg' //paypal
+global.img21 = 'https://telegra.ph/زيرو-تو-05-30' //paypal
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt2, nnnttt3, nnnttt4, nnnttt5, md, ig, paypal, yt, asistencia, fb]
