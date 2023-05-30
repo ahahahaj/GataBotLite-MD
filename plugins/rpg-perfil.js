@@ -27,6 +27,6 @@ let str = `${lenguajeGB.smsPerfil0()}
 • \`\`\`${sn}\`\`\``.trim()
 await conn.sendFile(m.chat, pp, 'gata.jpg', str, m, false, { mentions: [aa] }) 
 }
-handler.command = /^perfil|profile?$/i
+handler.command = /^بروفايل|profile?$/i
 handler.register = true
 export default handler
