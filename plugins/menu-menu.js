@@ -13,11 +13,14 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = conn.getName(m.sender)
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
-let menu = `*˚₊·˚₊· ͟͟͞͞➳❥ @${m.sender.split("@")[0]}*
-*˚₊·˚₊· ͟͟͞͞➳❥* ${packname}
-*☆═━┈◈ ╰ زيرو تو بوت ◈┈━═☆*
-*◈⇜ ㊂ هااااااااااام : جاري التعديل على البوت وها شكل مقدم فقط للتجربه
-*◈⇜ ㊂ الموقع الرسمي : https://cutt.us/ZeroTwoBot
+let menu = `*˚₊· ͟͟͞͞➳❥ @${m.sender.split("@")[0]}*
+*˚₊· ͟͟͞͞➳❥* ${packname}
+*☆═━┈◈ ╰  ${vs} غيغا بايت ◈┈━═☆*
+*◈⇜ ㊂ 
+هااااااااااام : جاري التعديل على البوت 
+وها شكل مقدم فقط للتجربه
+*◈⇜ ㊂ الموقع الرسمي : 
+https://cutt.us/ZeroTwoBot
 *◈⇜ ㊂ ▸▸معلومات القائمه ◂◂*
 *◈⇜* ┊
 *◈⇜* ┊▸ ✦ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? 'creadora' : 'owner'}_
